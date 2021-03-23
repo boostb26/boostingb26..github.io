@@ -474,7 +474,7 @@
                                 }
                             }, l.a.createElement("div", {
                                 className: "planHeading"
-                            },"Plan 2 — Get your Lambo (Earn up to 8% per week)"),
+                            },"B26Boost — Better then origenal (Earn more per week)"),
                             l.a.createElement("div", {
                                 className: "mid-Logo"
                             }, l.a.createElement("img", {
