@@ -496,7 +496,7 @@
                                   l.a.createElement("a", { href: "https://", target:'_blank'},
                                   l.a.createElement("img", { className: "img1", src:  "" })),
                                   l.a.createElement("a", {},
-                                  l.a.createElement("img", { className: "img2", src: "./images/icon-getyourlambo2.png" })),
+                                  l.a.createElement("img", { className: "img2", src: "" })),
                                   l.a.createElement("a", { href:"https://", target:'_blank'},
                                   l.a.createElement("img", { className: "img3", src: "" }))
                                 )
