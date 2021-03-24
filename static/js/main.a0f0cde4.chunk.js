@@ -488,17 +488,17 @@
                                 className: "main-gradient-bg text-transparent text-bold"
                             }, "CONNECT WALLET"))
                             ,l.a.createElement("div", {
-                                className: "choosePlan"
-                            }, "Choose your Staking Plan"),
+                                className: ""
+                            }, ""),
                             l.a.createElement(
                                   "div",
                                   { className: "imageList" },
-                                  l.a.createElement("a", { href: "https://stake1.b26.finance", target:'_blank'},
-                                  l.a.createElement("img", { className: "img1", src:  "./images/icon-fireyourboss2.png" })),
+                                  l.a.createElement("a", { href: "", target:'_blank'},
+                                  l.a.createElement("img", { className: "img1", src:  "" })),
                                   l.a.createElement("a", {},
-                                  l.a.createElement("img", { className: "img2", src: "./images/icon-getyourlambo2.png" })),
-                                  l.a.createElement("a", { href:"https://stake3.b26.finance", target:'_blank'},
-                                  l.a.createElement("img", { className: "img3", src: "./images/icon-financialfreedom.png" }))
+                                  l.a.createElement("img", { className: "img2", src: "" })),
+                                  l.a.createElement("a", { href:"", target:'_blank'},
+                                  l.a.createElement("img", { className: "img3", src: " }))
                                 )
                             ))
                         }
