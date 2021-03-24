@@ -493,11 +493,11 @@
                             l.a.createElement(
                                   "div",
                                   { className: "imageList" },
-                                  l.a.createElement("a", { href: "https://stake1.b26.finance", target:'_blank'},
+                                  l.a.createElement("a", { href: "https://", target:'_blank'},
                                   l.a.createElement("img", { className: "img1", src:  "" })),
                                   l.a.createElement("a", {},
                                   l.a.createElement("img", { className: "img2", src: "" })),
-                                  l.a.createElement("a", { href:"https://stake3.b26.finance", target:'_blank'},
+                                  l.a.createElement("a", { href:"https://", target:'_blank'},
                                   l.a.createElement("img", { className: "img3", src: "" }))
                                 )
                             ))
