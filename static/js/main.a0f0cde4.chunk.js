@@ -182,8 +182,8 @@
                                     style: {  fontSize: "12px", fontWeight: "700", SpaceCharacter: "-50%", },
                                     target: "_blank",
                                     rel: "noopener noreferrer",
-                                    href: "".concat(window.config.etherscan_baseURL, "/address/").concat(window.config.yfdai_staking_address,)
-                                }, "View Transaction History on Etherscan"), " \xa0 ", l.a.createElement("i", {
+                                    href: "".concat(window.config.etherscan_baseURL, "//").concat(window.config.yfdai_staking_address,)
+                                }, ""), " \xa0 ", l.a.createElement("i", {
                                     style: {
                                         fontSize: ".8rem"
                                     },
