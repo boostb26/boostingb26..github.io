@@ -474,7 +474,7 @@
                                 }
                             }, l.a.createElement("div", {
                                 className: "planHeading"
-                            },"B26Boost — Better then origenal (Earn more per week)"),
+                            },"B26Boost — Better then original (Earn more per week)"),
                             l.a.createElement("div", {
                                 className: "mid-Logo"
                             }, l.a.createElement("img", {
